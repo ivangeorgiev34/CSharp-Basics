@@ -7,6 +7,13 @@
 The Programming Basics course provides the initial programming skills necessary for all technology majors at Software University. This includes writing programming code at an entry level , working with a development environment (Visual Studio), using variables and data, operators and expressions, working with the console, using conditional constructs and loops.
 
 ## Course Contents
+* Checks
+* More complex checks
+* For Loops
+* While Loops
+* Nested Loops
+
+## Skills Acquired
 * Working with the console (data input and output)
 * Working with loops (for)
 * Work with more complex logical checks
