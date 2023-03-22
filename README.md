@@ -22,5 +22,4 @@ The Programming Basics course provides the initial programming skills necessary 
 * Working with more complex loops (nested for loops and while)
 
 ## Certificate:
-
-![Programming Basics Certificate Image](https://softuni.bg/certificates/certificates/converttoimage/125079?code=1773256e)
+![Programming Basics with C# Certificate](https://softuni.bg/certificates/certificates/converttoimage/125214?code=52a9379c)
